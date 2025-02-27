@@ -1,0 +1,7 @@
+Path: C:/Users/cleme/Desktop/McGill/MGSC-673/Group project v2
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['ball']
